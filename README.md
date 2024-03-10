@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hello, my name is Tyler, currently a student at Canterbury Christ Church University. Educating myself in Digital Forensics and Cyber security in the world that is heavily going towards AI  which will bring problems involving data protection and new vulnerability. As a new student in this world of Digital Forensic, my job will be finding solutions to keep people safe and also bring criminals who abuse vulnerability and data protection. I will be learning coding languages such as C#, Python, and C to help understand how a computer system works and languages involve to bring down criminals and understand how they can obtain information and burry information in steganography.
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?TylerGarner251=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
