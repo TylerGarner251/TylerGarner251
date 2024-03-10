@@ -27,5 +27,5 @@ Hello, my name is Tyler, currently a student at Canterbury Christ Church Univers
   <a href="https://github.com/TylerGarner251" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerGarner251&hide=html,css,Jupyter+Notebook,ruby,cmake,nsis,shell,procfile&theme=calm&langs_count=6&layout=compact" alt="TylerGarner251's github stats" />
   </a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TylerGarner251&theme=iceberg&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TylerGarner251&theme=nordfox&hide_border=true&mode=weekly&background=45%2C000136%2C86A9B6" alt="GitHub Streak" /></a>
 <p>
